@@ -1,14 +1,3 @@
-1) Motherboard 
-2) CPU
-3) GPU
-4) PSU
-5) Memory
-6) M.2
-7) SSD
-8) HDD
-9)
-
-
 /დავალება-1/ 
 let cars = ["audi","bmw", "lexus", "volkswagen", "porsche"]; 
 
